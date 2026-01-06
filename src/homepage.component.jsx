@@ -4,7 +4,7 @@ import './homepage.styles.scss';
 
 export const HomePage = () => (
   <div className='homepage'>
-    <h1>Homepage</h1>
+    <h1>Homepage component</h1>
   </div>
 );
 
